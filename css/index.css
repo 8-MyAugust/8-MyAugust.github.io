@@ -6766,6 +6766,12 @@ div#archive {
   background: var(--trans-dark);
 }
 
+body {
+  background: url('https://source.fomal.cc/img/home_bg.webp') no-repeat center center fixed;
+  background-size: cover;
+}
+
+
 /* 白天模式头图与页脚遮罩 */
 [data-theme="light"] #page-header:before,
 [data-theme="light"] #footer::before {
@@ -7773,7 +7779,7 @@ input#pic-link {
 
 /* heo 加载动画头像 */
 .loading-img {
-  background: url(https://tuchuang.voooe.cn/images/2023/01/02/avatar.webp)
+  background: url(https://avatars.githubusercontent.com/u/162339994?s=400&u=749fe297cbee2af83d397f99eb06d884a3f17f2e&v=4)
     no-repeat center center;
   background-size: cover;
 }
