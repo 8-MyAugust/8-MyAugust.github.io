@@ -38,25 +38,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/box/animation/index.html</loc>
-    
-    <lastmod>2025-06-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.fomal.cc/tags/index.html</loc>
-    
-    <lastmod>2025-06-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.fomal.cc/box/nav/index.html</loc>
     
     <lastmod>2025-06-06</lastmod>
     
@@ -74,7 +56,16 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/life/movies/index.html</loc>
+    <loc>https://www.fomal.cc/box/animation/index.html</loc>
+    
+    <lastmod>2025-06-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fomal.cc/box/nav/index.html</loc>
     
     <lastmod>2025-06-06</lastmod>
     
@@ -101,16 +92,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/life/games/index.html</loc>
-    
-    <lastmod>2025-06-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.fomal.cc/life/music/index.html</loc>
+    <loc>https://www.fomal.cc/site/census/index.html</loc>
     
     <lastmod>2025-06-06</lastmod>
     
@@ -128,16 +110,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/site/census/index.html</loc>
-    
-    <lastmod>2025-06-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.fomal.cc/personal/bb/index.html</loc>
+    <loc>https://www.fomal.cc/life/games/index.html</loc>
     
     <lastmod>2025-06-06</lastmod>
     
@@ -155,7 +128,34 @@
   </url>
   
   <url>
+    <loc>https://www.fomal.cc/life/movies/index.html</loc>
+    
+    <lastmod>2025-06-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.fomal.cc/site/time/index.html</loc>
+    
+    <lastmod>2025-06-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fomal.cc/personal/bb/index.html</loc>
+    
+    <lastmod>2025-06-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.fomal.cc/life/music/index.html</loc>
     
     <lastmod>2025-06-06</lastmod>
     
